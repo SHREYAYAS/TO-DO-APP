@@ -42,4 +42,7 @@ index.html: Contains the main HTML structure of the to-do list.
 
 style.css: Contains all the CSS rules for styling the application.
 
-app.js: Contains all the JavaScript code that handles the application's functionality, such as adding, deleting, and completing ta
+app.js: Contains all the JavaScript code that handles the application's functionality, such as adding, deleting, and completing task
+
+
+![To-Do App Demo](demo.gif)
